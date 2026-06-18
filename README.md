@@ -29,7 +29,8 @@ Sample Superstore dataset containing sales, profit, region, and category informa
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](script%20dashboard.png)
+
 
 ## Files
 
